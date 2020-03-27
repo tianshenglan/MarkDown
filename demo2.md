@@ -21,12 +21,19 @@
  ! [baidu] (http://www.baidu.com “百度网站”)
  
 - 仓库内的图片 demo
- ![](images/eletronic.jpg)
+ ![](images/eletronic.jpg)  
+ 
+ 
+ -图片的引用链接demo
+  ![][picture_open]
+  
 ## 引用demo
 > 这是个引文  
 
 出自《背影》
 >>>这是多重引文   
+
+
 
 ## 代码块demo
 
@@ -42,3 +49,4 @@ int &b=a;
 [百度]:http://www.baidu.com
 [demo1]:demo1.md 
 [代码块 demo]:demo2.md#代码块-demo
+[picture_open]:images/eletronic.jpg
